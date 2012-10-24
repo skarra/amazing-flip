@@ -1,7 +1,7 @@
 // -*- javascript -*-
 //
 // Created       : Wed Oct 24 14:12:43 IST 2012
-// Last Modified : Wed Oct 24 21:10:08 IST 2012
+// Last Modified : Wed Oct 24 21:26:28 IST 2012
 //
 // Copyright (C) 2012, Sriram Karra <karra.etc@gmail.com>
 // 
@@ -26,6 +26,10 @@
 
     "background" : {
 	"scripts" : ["amazing-flip.js"]
+    },
+
+    "icons" : {
+	"16" : "amazon.u.png"
     },
 
     "permissions" : ["tabs", "contextMenus"]
