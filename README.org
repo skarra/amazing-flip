@@ -1,0 +1,16 @@
+* Introduction
+
+This is a very simple hack that does a very simple thing.
+
+Have you ever found yourself browing a page for a book on http://flipkart.com/ and, having not enough reviews for it want to checkout the amazon page for the same book - just to get a sense of the book? To do that you would have to open a new tab and then go to amazon.com and then search for this book.  This hack reduces all of this extra effort and reduces to a single click 
+
+* Installation
+
+* How to use it
+
+After installing the chrome extension, 
+
+* Limitations and such
+
+- This works only in Chrome, :)
+- 
