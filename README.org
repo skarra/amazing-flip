@@ -6,7 +6,11 @@ Have you ever found yourself browing a page for a book on http://flipkart.com/ a
 
 * Installation
 
-Currently it is not available on the chrome extension webpage. The only way to install it is to do the following:
+** Last stable version from the Chrome Webstore
+
+You can visit the Chrome webstore here: https://chrome.google.com/webstore/detail/amazon-lookup-for-flipkar/jjaocdlebfafjampggjffmpdlgbodipo/ and install it like any other.
+
+** From source
 
 1. download the source code
 2. In Chrome, open Settings -> Extensions -> Load Unpacked Extensions (and select the just downloaded directory)
@@ -18,9 +22,3 @@ Now you are all set.
 After installing the chrome extension, when you are on a flipkart.com Book page, you can right click anywhere on the page to find a "Search Amazon for this book" - select that option and you will open a new tab with the amazon page for that book
 
 On any flipkart book if you find a link to a book, you can right click on that link (without having to open that page first), and you will find the same Search Amazon for this book" option described above. The option should work as you would expect it to.
-
-* Limitations and such
-
-- This works only in Chrome, :)
-
-- If the page or link you "lookup" does not correspond to a book, you may still get some - but arbitrary - amazon page
