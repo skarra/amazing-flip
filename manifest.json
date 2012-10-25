@@ -1,22 +1,3 @@
-// -*- javascript -*-
-//
-// Created       : Wed Oct 24 14:12:43 IST 2012
-// Last Modified : Wed Oct 24 21:26:28 IST 2012
-//
-// Copyright (C) 2012, Sriram Karra <karra.etc@gmail.com>
-// 
-// Released under the GNU Affer GPL version 3
-//
-// This is a small Chrome extension that solves a minor pain point of
-// mine: I buy a lot of books on Flipkart, but usually the quantum and
-// quality of reviews on the site leave something to be desired. To
-// make up for this I often lookup the same book on Amazon to take in
-// the reviews. With this extension installed, a new item will appear
-// when you right click on a link while you are on flipkart.com - and
-// you can just click that to bring up a amazon.com page for that book
-//
-
-
 {
     "name": "Amazon lookup for Flipkart",
     "version": "1.0",
@@ -29,7 +10,9 @@
     },
 
     "icons" : {
-	"16" : "amazon.u.png"
+	"16" : "amazing-flip-16.png",
+	"48" : "amazing-flip-48.png",
+	"128" : "amazing-flip-128.png"
     },
 
     "permissions" : ["tabs", "contextMenus"]
