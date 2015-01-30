@@ -3,7 +3,7 @@
     "version": "1.1",
     "manifest_version": 2,
 
-    "description": "Open the Amazon page for the book that is being view on Flipkart at the moment",
+    "description": "Open the Amazon page for the book that is being viewed on Flipkart at the moment",
 
     "background" : {
 	"scripts" : ["amazing-flip.js"]
